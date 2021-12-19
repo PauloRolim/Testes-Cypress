@@ -1,0 +1,3 @@
+npx cypress run --browser chrome --headed --no-exit --spec "cypress/integration/buscaPortalTransp.js"
+npx cypress run --browser chrome --headed --no-exit --spec "cypress/integration/checkBox.js"
+npx cypress run --browser chrome --headed --no-exit --spec "cypress/integration/verificarPreco.js"
